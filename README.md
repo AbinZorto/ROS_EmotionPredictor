@@ -20,8 +20,7 @@ the colored toy, looking away (they are all equally likely to
 happen). 
 
 The robot face can express three possible
-Fig. 1: Proposed structure of the
-emotions (RE): happy, sad, neutral.
+happy, sad, neutral.
 
 Note that, during an interaction, the robot might not have
 access to all the variables (object size, human expression, human action), due to e.g.
